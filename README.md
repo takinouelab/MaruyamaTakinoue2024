@@ -1,6 +1,6 @@
 # MaruyamaTakinoue_2024
 
-Numerical program codes for
+Numerical simulation codes for
 Tomoya Maruyama, Jing Gong, *Masahiro Takinoue
 “Temporally controlled multistep division of DNA droplets for dynamic artificial cells”
 ChemRxiv 2024
