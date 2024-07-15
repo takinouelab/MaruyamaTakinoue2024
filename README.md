@@ -1,6 +1,6 @@
 # MaruyamaTakinoue_2024
 
-DOI: 10.5281/zenodo.12741344
+DOI: 10.5281/zenodo.12741344 [https://doi.org/10.5281/zenodo.12741343]
 
 Numerical simulation codes for
 Tomoya Maruyama, Jing Gong, *Masahiro Takinoue
